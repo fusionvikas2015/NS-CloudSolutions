@@ -1,0 +1,1 @@
+GIT_REPO = "Git_Repo/astro-scorpius-automation-master"
